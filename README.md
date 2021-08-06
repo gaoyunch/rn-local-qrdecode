@@ -7,7 +7,7 @@
 yarn add @gaoyunch/rn-local-qrdecode
 
 #and link: (RN < 0.60)
-react-native link rn-local-qrdecode
+react-native link @gaoyunch/rn-local-qrdecode
 
 ```
 
@@ -17,10 +17,8 @@ or you may install manually.
 Here is the demo (may check the examples folder of source code as well)
 
 ```typescript 
-import ...
 
 import RNLocalQrdecode from '@gaoyunch/rn-local-qrdecode';
-
 
 const imageBase64 = "data:image/jpeg;base64,/9j/4AA.......";
 

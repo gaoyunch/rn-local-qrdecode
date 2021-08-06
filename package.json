@@ -1,6 +1,6 @@
 {
   "name": "@gaoyunch/rn-local-qrdecode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The plugin to recognize the barcode from local image for React Native.",
   "author": "gaoyunch <a1484075966@outlook.com>",
   "contributors": [],
